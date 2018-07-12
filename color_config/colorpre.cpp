@@ -5,7 +5,7 @@
 #include <opencv2/opencv.hpp>
 #include <vector>
 
- typedef uchar UINT8;
+typedef uchar UINT8;
 const int WIDTH = 640;
 const int HEIGHT = 480;
 
